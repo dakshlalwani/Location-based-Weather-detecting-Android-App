@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=A6:AE:F1:17:19:7D:A7:F5:AB:D4:2B:F5:CA:40:AE:EC:79:3A:27:8B%3Bcom.dnc.dncproject
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    A6:AE:F1:17:19:7D:A7:F5:AB:D4:2B:F5:CA:40:AE:EC:79:3A:27:8B
+
+    SHA-1 certificate fingerprint:
+    A6:AE:F1:17:19:7D:A7:F5:AB:D4:2B:F5:CA:40:AE:EC:79:3A:27:8B
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD6bXRgxX16t03F_pqBWw8RXS-ACvInsFo</string>
+</resources>
